@@ -43,6 +43,6 @@ for windows in docs_windows:
 
 X=np.array(vectors)
 
-print("Vocabulary:\n",vocab)
-print("Vectors:\n")
+print("Vocabulary:",vocab)
+print("Vectors:")
 print(X)
